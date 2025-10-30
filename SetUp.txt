@@ -1,0 +1,24 @@
+Backend
+    app/
+    bootstrap/
+    config/
+    database/
+    routes/
+    storage/
+    artisan
+    composer.json
+    composer.lock
+    .env
+    phpunit.xml
+    server.php
+    Dockerfile
+    docker-compose.yml
+
+Frontend
+    resources/views/
+    resources/js/
+    resources/css/
+    public/
+    webpack.mix.js
+    package.json
+    package-lock.json
